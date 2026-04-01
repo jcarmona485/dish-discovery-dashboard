@@ -47,9 +47,9 @@ I built this to practice real-world data tasks like working with large JSON file
   >sql (optional SQL queries)
     -dish_queries.sql
 
--dish_analysis.ipynb (main analysis notebook)
+  >dish_analysis.ipynb (main analysis notebook)
 
--README.md (What you are reading now)
+  >README.md (What you are reading now)
 ---
 
 ## How to Run It
